@@ -29,14 +29,14 @@ By implementing the triplet loss function, we gained a deeper understanding of h
 ## Task 6: Building a Face Recognition Model
 The final task of the project was to build a face recognition model using the knowledge and skills gained from the previous tasks. This task involved using the techniques and architectures learned from the research
 
-## Conclusion
+# Conclusion
 This project provided a comprehensive understanding of deep face recognition and its underlying concepts. By going through the various tasks, we were able to gain hands-on experience with state-of-the-art architectures and techniques. Additionally, by reading research papers and implementing models from scratch, we were able to gain a deeper understanding of the field. Overall, this project was a valuable learning experience for me.
 
-## Usage
+# Usage
 The code for this project is available in this repository. To run the code, you will need to have a dataset of images to train and test the model on. You will also need to have the necessary dependencies installed, such as TensorFlow and Keras.
 
-## Contributors
+# Contributors
 Under the mentorship of P Balasubramanian I, Resnick Singh, have completed this project.
 
-## Acknowledgements
+# Acknowledgements
 We would like to thank the Analytics Club of IIT Bombay and our mentor,P Balasubramanian, for organizing this project and providing the opportunity for us to learn about deep face recognition.
