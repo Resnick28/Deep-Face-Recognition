@@ -1,5 +1,5 @@
 # Deep Face Recognition Project
-This project is organized by the Analytics Club of IIT Bombay under the mentorship of P Balasubramanian. The goal of this project is to gain a deep understanding of deep face recognition using state-of-the-art neural network architectures and techniques. The mentor divided the project into several tasks, each of which helped us gain a better understanding of the field and develop our skills in implementing deep face recognition models.
+This project is organized by the Analytics Club of IIT Bombay I did this under the mentorship of P Balasubramanian. The goal of this project is to gain a deep understanding of deep face recognition using state-of-the-art neural network architectures and techniques. The mentor divided the project into several tasks, each of which helped us gain a better understanding of the field and develop our skills in implementing deep face recognition models.
 
 ## Task 1: Completing Coursera Courses
 The first task of the project was to go through two Coursera courses: "Neural Networks and Deep Learning" and "Convolutional Neural Networks".
